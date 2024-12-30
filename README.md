@@ -38,6 +38,8 @@ Hey! My name is **Daniel Schnieder** (pronounced "shnee-dur"), and here's some f
 * Oscilloscopes and function generators
 * Soldering and crimping
 
+> Last updated information on December 30th 2024
+
 <!---
 ## Languages
 <div align="left">
