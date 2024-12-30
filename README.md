@@ -1,4 +1,4 @@
-## Bio
+## 👋 Bio
 
 Hey! My name is **Daniel Schnieder** (pronounced "shnee-dur"), and here's some facts about me! 🏳️‍🌈
 * Third year Computer Engineering (ECE), with a minor in Signal Processing, at Ohio State!
@@ -8,7 +8,7 @@ Hey! My name is **Daniel Schnieder** (pronounced "shnee-dur"), and here's some f
 * Member of the [Open Source Club](https://osuosc.org/about/)!
 * Player in the [National Pokemon Collegiate VGC League](https://x.com/collegiatevgc) for OSU!
 
-## Languages
+## ⌨️ Languages
 * Java
 * C/C++/Embedded C
 * Assembly
@@ -19,7 +19,7 @@ Hey! My name is **Daniel Schnieder** (pronounced "shnee-dur"), and here's some f
 * VHDL
 * [German Language](https://www.duolingo.com/profile/SchniederDaniel) (intermediate)
 
-## Software
+## 💻 Software
 * SOLIDWORKS CAD / AutoCAD / TinkerCAD
 * TopSpice
 * LabVIEW
@@ -29,7 +29,7 @@ Hey! My name is **Daniel Schnieder** (pronounced "shnee-dur"), and here's some f
 * Discord API
 * Godot Engine / GameMaker Studio
 
-## Hardware
+## 🛠️ Hardware
 * PC assembly and troubleshooting
 * CAN bus protocol
 * Arduino / Raspberry Pi / FPGAs, and other MCUs
