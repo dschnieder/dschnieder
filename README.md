@@ -1,7 +1,7 @@
 ## 👋 Bio
 
 Hey! My name is **Daniel Schnieder** (pronounced "shnee-dur"), and here's some facts about me! 🏳️‍🌈
-* Third year Computer Engineering (ECE), with a minor in Signal Processing, at Ohio State!
+* Third year Computer Engineering (ECE) at Ohio State!
 * Telemetry Lead for [Buckeye Solar Racing](https://www.buckeyesolar.org/)!
   - I'm currently working on programming a Raspberry Pi Pico in Arduino to wirelessly transmit CAN data.
   - Also, I'm learning how to create, host, and maintain a custom website to display CAN data.
